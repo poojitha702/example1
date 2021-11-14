@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hi teja
 how are you?
 feeling bored?
